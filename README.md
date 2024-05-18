@@ -1,6 +1,7 @@
 # Black-Friday-Project
 
-
+![black-friday-img](https://github.com/yassermessahli/Black-Friday-Project/blob/main/Workspace/black-friday-2023.jpg)
+---
 The project revolves around analyzing a comprehensive Black Friday sales dataset, encompassing diverse demographic and purchasing information. The dataset includes details such as user demographics, product categories, and purchase amounts. 
 
 The primary objectives involve exploring the relationships between various attributes, predicting purchase amounts using machine learning models, and understanding the impact of different factors on Black Friday sales. 
